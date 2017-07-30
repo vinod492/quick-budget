@@ -1,0 +1,2 @@
+# quick-budget
+Budget calculator
